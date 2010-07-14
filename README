@@ -2,7 +2,7 @@ NAME
     AutoRole - Compiletime OR runtime mixin of
     traits/roles/mixins/your-word-here.
 
-    $Id: AutoRole.pm,v 1.5 2010-07-02 15:40:28 paul Exp $
+    $Id: AutoRole.pm,v 1.7 2010-07-14 13:25:31 paul Exp $
 
 SYNOPSIS
       use AutoRole Bam => [qw(bar baz bim)];

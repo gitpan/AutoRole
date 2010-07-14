@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               AutoRole
-version:            0.02
+version:            0.03
 abstract:           Compiletime OR runtime mixin of traits/roles/mixins/your-word-here.
 author:
     - Paul Seamons

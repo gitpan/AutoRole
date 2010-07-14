@@ -4,14 +4,14 @@ package AutoRole;
 
 AutoRole - Compiletime OR runtime mixin of traits/roles/mixins/your-word-here.
 
-$Id: AutoRole.pm,v 1.5 2010-07-02 15:40:28 paul Exp $
+$Id: AutoRole.pm,v 1.7 2010-07-14 13:25:31 paul Exp $
 
 =cut
 
 use strict;
 use warnings;
 
-$AutoRole::VERSION = '0.02';
+$AutoRole::VERSION = '0.03';
 
 sub import {
     my ($class, @args) = @_;
